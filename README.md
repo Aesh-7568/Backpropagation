@@ -11,7 +11,10 @@
 ## Excel Sheet Link
 - [Backpropagation.xlsx](https://github.com/Aesh-7568/Backpropagation/files/7261043/Backpropagation.xlsx)
 
-## Major Steps involved - 
+## Major Steps involved 
+- The algorithm is used to effectively train a neural network through a method called chain rule. In simple terms, after each forward pass through a network, backpropagation performs a backward pass while adjusting the model’s parameters (weights and biases).
+- As per the example taken, we have 2 inputs, 2 hidden layer and 2 outputs of our neural network model.
+- 
 
 ## Screenshots -
 ### 1. NN Diagram
