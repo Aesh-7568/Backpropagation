@@ -20,4 +20,10 @@
 
 ### 2.Loss Chart
 
+![chart](https://user-images.githubusercontent.com/42990724/135494515-c400a432-2e1b-40a7-b344-8689cf31bb2b.png)
+
+### 3. Excel Sheet
+
+
+
 
