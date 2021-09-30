@@ -16,4 +16,8 @@
 ## Screenshots -
 ### 1. NN Diagram
 
+![BackPropagation](https://user-images.githubusercontent.com/42990724/135494478-49363450-348c-4a14-9f86-ff7552771326.png)
+
+### 2.Loss Chart
+
 
