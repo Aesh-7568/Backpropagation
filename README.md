@@ -9,3 +9,4 @@
 - Submit the GitHub link. Github link must be public (check the link without logging in, if it opens, then only share the link as an assignment).
 
 ## Excel Sheet Link
+- [Backpropagation.xlsx](https://github.com/Aesh-7568/Backpropagation/files/7261043/Backpropagation.xlsx)
