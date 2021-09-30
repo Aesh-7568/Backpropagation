@@ -11,7 +11,9 @@
 ## Excel Sheet Link
 - [Backpropagation.xlsx](https://github.com/Aesh-7568/Backpropagation/files/7261043/Backpropagation.xlsx)
 
-## How Backpropagation works - 
+## Major Steps involved - 
 
 ## Screenshots -
+### 1. NN Diagram
+
 
