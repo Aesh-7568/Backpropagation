@@ -9,7 +9,7 @@
 - Submit the GitHub link. Github link must be public (check the link without logging in, if it opens, then only share the link as an assignment).
 
 ## Excel Sheet Link
-- [Backpropagation.xlsx](https://github.com/Aesh-7568/Backpropagation/files/7261043/Backpropagation.xlsx)
+- [Backpropagation.xlsx](https://github.com/Aesh-7568/Backpropagation/files/7265463/Backpropagation.xlsx)
 
 ## Major Steps involved 
 - The algorithm is used to effectively train a neural network through a method called chain rule. In simple terms, after each forward pass through a network, backpropagation performs a backward pass while adjusting the model’s parameters (weights and biases).
