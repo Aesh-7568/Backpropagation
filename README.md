@@ -13,8 +13,11 @@
 
 ## Major Steps involved 
 - The algorithm is used to effectively train a neural network through a method called chain rule. In simple terms, after each forward pass through a network, backpropagation performs a backward pass while adjusting the model’s parameters (weights and biases).
+- backpropagation aims to minimize the cost function by adjusting network’s weights and biases. The level of adjustment is determined by the gradients of the cost function with respect to those parameters.
 - As per the example taken, we have 2 inputs, 2 hidden layer and 2 outputs of our neural network model.
-- 
+- The gradient shows how much the parameters needs to change (in positive or negative direction) to minimize E_total.
+- Using chain rule we calculate the local gradients.We have learning rate that determines the gradients influence.
+- We calculate the change in E_total when we change w1,w2,w3 and w4. Partial derivative is considered and finally termination happens when loss is minimum.
 
 ## Screenshots -
 ### 1. NN Diagram
